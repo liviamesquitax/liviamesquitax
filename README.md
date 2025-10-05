@@ -22,7 +22,7 @@ Atualmente estou me dedicando a aprimorar meus conhecimentos em **Angular, TypeS
   <a href="mailto:liviaa.mesquitax@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  Sem redes sociais ativas, além do Linkedin, enquanto procuro obter o máximo de aprendizado sem distrações😊
 </div>
+  Sem redes sociais ativas, além do Linkedin, enquanto procuro obter o máximo de aprendizado sem distrações😊
 
 
