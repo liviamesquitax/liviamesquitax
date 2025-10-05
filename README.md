@@ -1,5 +1,5 @@
 ## Lívia Mesquita 👋  
-Sou desenvolvedora front-end em formação, apaixonada por tecnologia, aprendizado contínuo e por transformar ideias em interfaces funcionais e criativas.  
+Sou desenvolvedora full-stack em formação, apaixonada por tecnologia, aprendizado contínuo e por transformar ideias em interfaces funcionais e criativas.  
 Atualmente estou me dedicando a aprimorar meus conhecimentos em **Angular, TypeScript, JavaScript e C**, além de explorar o universo do **desenvolvimento web**. 🚀
 
 ##
@@ -22,6 +22,7 @@ Atualmente estou me dedicando a aprimorar meus conhecimentos em **Angular, TypeS
   <a href="mailto:liviaa.mesquitax@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
+  Sem redes sociais ativas, além do Linkedin, enquanto procuro obter o máximo de aprendizado sem distrações😊
 </div>
 
 
