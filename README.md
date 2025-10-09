@@ -1,6 +1,6 @@
 ## Lívia Mesquita 👋  
-Sou desenvolvedora full-stack em formação, apaixonada por tecnologia, aprendizado contínuo e por transformar ideias em interfaces funcionais e criativas.  
-Atualmente estou me dedicando a aprimorar meus conhecimentos em **Angular, TypeScript, JavaScript e C**, além de explorar o universo do **desenvolvimento web**. 🚀
+Sou desenvolvedora full-stack em formação, apaixonada por tecnologia, aprendizado contínuo e buscando meios de aprimorar minhas habilidades práticas e soft skills.  
+Atualmente estou me dedicando a aprimorar meus conhecimentos em **Angular, TypeScript, JavaScript e C**, além de explorar o universo do **desenvolvimento web e mobile**. 🚀
 
 ##
 
@@ -23,6 +23,9 @@ Atualmente estou me dedicando a aprimorar meus conhecimentos em **Angular, TypeS
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
+
+##
+
   Sem redes sociais ativas, além do Linkedin, enquanto procuro obter o máximo de aprendizado sem distrações😊
 
 
